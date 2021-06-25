@@ -1,0 +1,52 @@
+html {
+  border: 5px dashed black;
+}
+
+body {
+  background-color: thistle;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#header-text {
+  inline: ;
+}
+
+.nav-class {
+  background-color: lightgray;
+  margin: 20px 0;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  padding: 5px 10px;
+  text-justify: center;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  border: 3px solid black;
+  padding: 30px;
+}
+
+#logo-img {
+  height: 10vh;
+}
+
+#ninjas-img {
+  height: 40vh;
+  width: 95vw;
+}
+
+#do-your-bit-video {
+  height: 300px;
+  width: 480px;
+}
